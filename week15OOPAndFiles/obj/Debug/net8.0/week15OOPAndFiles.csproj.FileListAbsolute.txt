@@ -1,0 +1,4 @@
+C:\Users\Persidski\source\repos\week15OOPAndFiles\week15OOPAndFiles\obj\Debug\net8.0\week15OOPAndFiles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Persidski\source\repos\week15OOPAndFiles\week15OOPAndFiles\obj\Debug\net8.0\week15OOPAndFiles.AssemblyInfoInputs.cache
+C:\Users\Persidski\source\repos\week15OOPAndFiles\week15OOPAndFiles\obj\Debug\net8.0\week15OOPAndFiles.AssemblyInfo.cs
+C:\Users\Persidski\source\repos\week15OOPAndFiles\week15OOPAndFiles\obj\Debug\net8.0\week15OOPAndFiles.csproj.CoreCompileInputs.cache

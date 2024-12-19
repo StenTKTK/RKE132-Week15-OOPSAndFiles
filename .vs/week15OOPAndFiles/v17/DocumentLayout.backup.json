@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Persidski\\source\\repos\\week15OOPAndFiles\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E4F601D0-0E1A-4C32-BC96-0A657CC43975}|week15OOPAndFiles\\week15OOPAndFiles.csproj|c:\\users\\persidski\\source\\repos\\week15oopandfiles\\week15oopandfiles\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4F601D0-0E1A-4C32-BC96-0A657CC43975}|week15OOPAndFiles\\week15OOPAndFiles.csproj|solutionrelative:week15oopandfiles\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 118,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Persidski\\source\\repos\\week15OOPAndFiles\\week15OOPAndFiles\\Program.cs",
+              "RelativeDocumentMoniker": "week15OOPAndFiles\\Program.cs",
+              "ToolTip": "C:\\Users\\Persidski\\source\\repos\\week15OOPAndFiles\\week15OOPAndFiles\\Program.cs",
+              "RelativeToolTip": "week15OOPAndFiles\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACkAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T16:47:22.154Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
